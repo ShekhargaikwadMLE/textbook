@@ -1,0 +1,197 @@
+Conversation 1
+
+Speaker 1: Hello, good evening.
+Speaker 2: Good evening, Madam. I'm recording this call for feedback. Is that okay?
+Speaker 1: Yes, I'm recording too for our school administration.
+Speaker 2: Happy New Year, ma'am. Can you tell me about your teaching experience and what classes you teach?
+Speaker 1: I’ve been teaching for 20 years at an English medium school in Surathkal. I teach computer science, science, and maths.
+Speaker 2: Have you been involved in any innovation or ideation programs at school?
+Speaker 1: Yes, we've conducted workshops on ideation and design thinking, and I've attended workshops, including a recent one at the National Aerospace Laboratories in Bangalore.
+Speaker 2: Why was the ATL program introduced at your school?
+Speaker 1: To empower students in problem-solving and enable them to develop solutions for community problems.
+Speaker 2: How does the ATL lab function? What kind of courses are taught?
+Speaker 1: The curriculum mirrors what we have in our syllabus. However, post-COVID, there have been delays due to funding issues.
+Speaker 2: How are the principal and other teachers supporting the lab?
+Speaker 1: Their support is average. They handle their subjects alongside the lab, but we lack technical expertise.
+Speaker 2: How do you select students for the lab?
+Speaker 1: Initially, all students participated, but now we select only interested students for after-school classes.
+Speaker 2: What activities take place in the lab?
+Speaker 1: We prepare students for competitions like hackathons, teach Arduino programming, and other technology-related projects.
+Speaker 2: How often does the lab operate?
+Speaker 1: Currently, it's less structured due to additional duties and focuses on interested students.
+Speaker 2: Which age groups use the lab?
+Speaker 1: Students from 6th to 10th grade, with older students often teaching the younger ones.
+Speaker 2: What is the students' response to the lab?
+Speaker 1: They enjoy hands-on work with sensors, circuits, and gadgets like 3D printers, though we've faced repair issues with some equipment.
+Speaker 2: What projects have students created?
+Speaker 1: They've developed projects like 'Krishi Taranga' for agriculture, which was featured in a national competition.
+Speaker 2: What are your favorite lessons to teach?
+Speaker 1: I enjoy teaching about sensors, particularly their applications in agriculture.
+Speaker 2: Have students solved any problems for the school?
+Speaker 1: They have plans, such as using a drone for school events. We're currently facing challenges in procuring components for projects.
+Speaker 2: Do you have any feedback for us?
+Speaker 1: We need technical assistance for the lab. Funding has also been an issue, as we've received limited funds over the past few years.
+Speaker 2: What's been your favorite experience with the lab?
+Speaker 1: It's rekindled my interest in electronics and programming. It's been a learning experience.
+Speaker 2: Thank you for sharing your experiences. Have a great day.
+Speaker 1: Thank you, Sir.
+
+conversation 2
+
+
+
+Speaker 2: Hello, I'm Arun. We need to understand how the ATL program is running in your school and its challenges.
+Speaker 1: I have 26 years of teaching experience in science and physics, and I handle the lab for 9th and 10th grades. We have a science club, and I've been involved in innovation, having received an innovative teacher's award.
+Speaker 2: How did you become interested in the ATL program?
+Speaker 1: My interest sparked from the Ideate for India program and exposure to technology's diverse applications. I've been actively participating in the ATL since its inception in 2018.
+Speaker 2: What are the ATL activities and achievements at your school?
+Speaker 1: We participate in state-level competitions and have achieved recognition in various programs, including entrepreneurship and the ATL marathon. Our approach includes exposure to mentors and training in IPR and design thinking.
+Speaker 2: How do you handle the ATL curriculum?
+Speaker 1: We incorporate variations to suit our needs. External experts, like our mentor of change, provide advanced training. Alumni also contribute, for example, by organizing web designing competitions.
+Speaker 2: How is the lab managed?
+Speaker 1: The physics and computer departments assist with equipment management. We had to repair our 3D printer, which was costly.
+Speaker 2: What do students enjoy most in the lab?
+Speaker 1: Students engage in various activities, especially enjoying teamwork and innovation challenges. They come up with their own ideas, which I encourage and guide.
+Speaker 2: How are the students selected for the lab?
+Speaker 1: We aim to accommodate around 30-45 students per session, focusing mainly on 7th to 10th graders. Younger students are also exposed to competitive activities.
+Speaker 2: Do you have any feedback or suggestions for the ATL program?
+Speaker 1: There's a need for more consistent support from school authorities. Principals and vice principals should receive training to understand and support the ATL program effectively. More direct assistance from NITI Aayog for IPR and copyright issues would be beneficial.
+Speaker 2: What are some of your favorite moments or achievements related to the lab?
+Speaker 1: The lab has been a great journey, but I cannot discuss specific ideas due to ongoing IPR processes. The success of the lab relies on the passion and hard work of those involved, and it's crucial to have someone who genuinely enjoys managing the ATL activities.
+Speaker 2: Thank you for your insights and time.
+Speaker 1: Please don't forget to send me the recording of this call. Have a good day.
+
+
+conversation 3
+
+Speaker 1: Hello, I'm Arun.
+Speaker 2: Discussing the ATL program, it runs from 6:00 to 11:00, focusing on technical education and electronics.
+Speaker 1: The program has been active for over 19 months. Participation for students from 6th to 11th standards is compulsory, but the syllabus is optional.
+Speaker 2: Could you share some notable projects by students?
+Speaker 1: Students have created some impressive projects, including a water level detector.
+Speaker 2: How do these projects align with the school syllabus?
+Speaker 1: The projects complement the syllabus but also venture beyond it, addressing personal and community problems.
+Speaker 2: What support does the school provide?
+Speaker 1: The principal and other members have been continuously supportive, especially in the last two months of 2022.
+Speaker 2: How can student awareness and participation in the lab be increased?
+Speaker 1: Increasing awareness about the benefits of participating in the lab for their future is crucial.
+Speaker 2: Do you have any additional feedback?
+Speaker 1: A permanent feedback line for the ATL program would be beneficial for continuous improvement.
+Speaker 2: Any further comments?
+Speaker 1: I'll be processing this voice recording for our records.
+Speaker 2: Thank you for your time. Have a nice day.
+Speaker 1: We are assessing the ATL program across various schools to gather feedback.
+
+
+conversation 4
+
+Speaker 2: Hello, I'm Arun from Atal Innovation Mission and NITI Aayog. Can you share your experience with the Atal Tinkering Labs program?
+Speaker 1: I'm MP Raju, working as an ATL in-charge since 2019 in a public school in West Godavari. I teach computer science for grades 6 to 10 and handle ATL for grades 6 to 12. My background is in electrical and electronics, and I've completed various innovation and design thinking modules.
+Speaker 2: What projects have you worked on?
+Speaker 1: We submitted over 30 projects for the ATL Marathon last year. Our students are now working on innovative projects, and we're trying to surpass our previous achievements.
+Speaker 2: What challenges do you face?
+Speaker 1: We invite students from other schools to participate in ATL, but there's a lack of interest from their principals. However, our school management supports this outreach.
+Speaker 2: What are the students' favorite activities in the lab?
+Speaker 1: They enjoy working with advanced technologies like foam boards, DC motors, and learning about design and computational thinking. We've incorporated the lab into the regular timetable.
+Speaker 2: How do you manage lab sessions and equipment?
+Speaker 1: Lab sessions last 40 minutes, focusing on electronics, 3D printing, and student-led projects. We maintain a register for equipment use and track any damages.
+Speaker 2: What support does the school provide?
+Speaker 1: The school offers full support, including financial assistance for student projects and participation in competitions.
+Speaker 2: What impact has the lab had on students?
+Speaker 1: Students are eager to learn in the lab, showing increased interest in science and innovation. They are thinking outside the textbook and developing solutions to real-world problems.
+Speaker 2: Are there any memorable moments from the lab?
+Speaker 1: Celebrating the ATL community day was special, with students from other schools visiting our lab and expressing interest in having similar facilities in their schools.
+Speaker 2: Do you have any additional feedback or challenges?
+Speaker 1: One challenge is repairing advanced equipment like 3D printers, as finding parts and support can be difficult. Overall, the program has positively impacted our students, encouraging them to think creatively and solve problems.
+Speaker 2: Thank you for sharing your experiences and insights. Your feedback is valuable for improving the program.
+
+
+conversation 5
+
+Speaker 2: Hello, I'm Arun from Atal Innovation Mission. Can you share your experience with the program?
+Speaker 1: Our school received funding from Atal Innovation Mission in 2019 and established the lab in October 2020. The school is 50 years old with a strength of 1500 students. The ATL is integrated into the curriculum for 9th to 12th graders, and we participate in competitions organized by Atal Innovation Mission.
+Speaker 2: What is your role in the program?
+Speaker 1: I'm not a science teacher but a Bachelor of Engineering in Electronics and Communication. I train students in various aspects of electronics, coding, robotics, and problem-solving.
+Speaker 2: Can you describe some of the projects students work on?
+Speaker 1: Students work on a variety of projects like drones, robotics, and problem-solving activities. They focus on applying science to real-world issues. For example, using chemistry to reduce carbon footprints.
+Speaker 2: How do you manage the lab and ensure equipment is used properly?
+Speaker 1: I supervise the lab, but we encourage students to use equipment freely. We keep track of equipment usage and address any damages.
+Speaker 2: What support do you receive from the school?
+Speaker 1: The principal and science department are very supportive. They assist with idea generation and guide students on their projects.
+Speaker 2: What feedback do you have for the Atal Innovation Mission?
+Speaker 1: It would be beneficial if Atal Innovation Mission could connect with more schools through District Education Officers. Organizing state-wise meetings could increase participation and understanding of the program's importance.
+Speaker 2: Any other suggestions?
+Speaker 1: Timing the competitions and activities to align with the school calendar would increase participation. Many students and teachers are busy with exams and other responsibilities at certain times of the year.
+
+
+conversatiob 6
+
+Speaker 2: Hello, I'm Arun from People Plus AI, working to collect feedback for Atal Innovation Mission and Atal Tinkering Labs. Can you share your experience with the program?
+Speaker 1: I've been working at this institution for 7 years. We received funds for ATL in 2019 and inaugurated the lab in October 2020. The school, having completed 50 years, integrates ATL into the curriculum from 6th to 12th grade, with a weekly 40-minute period for ATL. I'm now the vice principal, and we have a team of dedicated teachers from different departments involved in the program.
+Speaker 2: How do you manage the ATL lab?
+Speaker 1: We have a notebook in the lab for equipment tracking. Students are responsible for recording and returning items. We haven't faced any issues with equipment loss or damage.
+Speaker 2: What does the ATL syllabus involve?
+Speaker 1: The syllabus starts with design thinking and covers basic electrical circuits, Tinkercad, coding, 3D printing, and AI. We focus on practical application and problem-solving.
+Speaker 2: What's the students' response to the lab?
+Speaker 1: Students prefer practical classes in the lab over theoretical ones. They come up with creative ideas, and we often learn from them. We conduct extra sessions for students with special ideas.
+Speaker 2: Do students participate in competitions?
+Speaker 1: Yes, they regularly participate in competitions organized by IBM Skill Build and other platforms. We've been shortlisted in top innovation categories at national levels.
+Speaker 2: What projects do students enjoy?
+Speaker 1: They are particularly interested in working with circuits and have created innovative projects like drones for sanitization, smart accident preventers, and more.
+Speaker 2: What are your favorite aspects of teaching in the lab?
+Speaker 1: Teaching electronic circuits using Tinkercad is my favorite. We plan circuits in Tinkercad and then implement them in the lab.
+Speaker 2: What challenges do you face in the lab?
+Speaker 1: We need more training in AI and coding. Also, we're facing difficulties in creating the NGO Darpan ID for the second tranche of funding.
+Speaker 2: Any suggestions for improvements in the program?
+Speaker 1: More training programs in AI and coding would be beneficial. Collaborations with engineering colleges for guidance and long-term technical education would help.
+
+
+Conversation 7
+
+Speaker 1: Thank you for agreeing to participate in this survey. We aim to gather feedback for the Atal Innovation Mission. Can you describe your involvement and experience with this program?
+Speaker 2: I've been with my current institution for 7 years. We received ATL funds in 2019 and established the lab in 2020. Recently, I've been promoted to vice principal. Our dedicated team comprises maths and science teachers. We have integrated ATL into our weekly curriculum from 6th to 10th grade. We also provide additional sessions for students with specific project ideas.
+Speaker 1: How do you manage the lab and its equipment?
+Speaker 2: We maintain a notebook for tracking equipment usage. Students are responsible for recording and returning items. We've faced no issues regarding equipment loss or damage so far.
+Speaker 1: What does the ATL syllabus involve?
+Speaker 2: We start with design thinking, basic electric circuits, and use Tinkercad for planning circuits. We then implement these in the lab.
+Speaker 1: How do students respond to the ATL lab?
+Speaker 2: Students prefer practical lab sessions over theoretical classes. They actively participate and often come up with innovative ideas.
+Speaker 1: Do students participate in competitions?
+Speaker 2: Yes, they regularly participate in various national-level competitions.
+Speaker 1: What are the students' favorite projects in the lab?
+Speaker 2: They enjoy working with circuits and have created projects like drones for sanitization and smart accident preventers.
+Speaker 1: What challenges do you face with the lab?
+Speaker 2: We need more training in areas like AI and coding. We also face challenges in creating the NGO Darpan ID for additional
+funding.
+Speaker 1: Any suggestions for improvements in the program?
+Speaker 2: More training in AI and coding would be helpful. Collaboration with engineering colleges for guidance on technical education would be beneficial.
+
+
+conversation 8
+Speaker 1 (Shreelatha): Questions about my experience with Atal Innovation Mission (AIM) and Atal Tinkering Labs (ATL).
+
+Speaker 2: Explains the purpose of gathering feedback for government initiatives like AIM and ATL using AI technology. The goal is to understand the effectiveness of these initiatives and improve them based on feedback.
+
+Shreelatha: Shares her background as a physics teacher with 20 years of experience. She discusses her involvement with ATL since its inception in her school in 2017. Despite having an MSC in electronics, she initially lacked practical knowledge of the sensors and programming used in ATL. She adapted by learning through YouTube and other resources, integrating ATL with her physics classes, and using hands-on projects to teach concepts.
+
+Speaker 2: Asks about the selection and setup process of ATL in her school, and what motivated her interest in the program.
+
+Shreelatha: Describes how the school was among the first to receive funding for ATL. She details the challenges faced initially, like selecting vendors and understanding new technologies. Emphasizes her passion for experimenting and learning, which helped her overcome these challenges.
+
+Speaker 2: Inquires about the lab's syllabus, how ATL fits into the school schedule, and the involvement of other teachers and the principal.
+
+Shreelatha: Explains that ATL sessions are conducted mainly on non-working Saturdays due to a packed school schedule. The lab activities include various projects, and all students from 6th grade onwards are encouraged to participate. She highlights the need for more structured time and resources for ATL activities.
+
+Speaker 2: Asks about the students' experiences in the lab and the outcomes of their projects.
+
+Shreelatha: Shares that students enjoy the lab, especially activities like 3D printing. Mentions specific projects like a people counter and a digitalized visitor pass system for the principal's office. Discusses the positive impact of ATL on students, including enhanced critical thinking and hands-on learning.
+
+Speaker 2: Seeks feedback on what could be improved in the ATL program.
+
+Shreelatha: Suggests that the ATL in-charge’s workload should be managed better, with structured time for lab activities. Emphasizes the need for ground-level analysis of the program's implementation and the realities faced by teachers and students. Expresses concern that the ATL's potential is not fully realized due to administrative and resource constraints.
+
+Speaker 2: Thanks Shreelatha for her insights and concludes the interview.
+
+
+
+
